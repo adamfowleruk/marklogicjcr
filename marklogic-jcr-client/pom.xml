@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.marklogic.jcr</groupId>
+  <artifactId>marklogic-jcr-client</artifactId>
+  <version>1.0.0</version>
+  <name>MarkLogic JCR Client API</name>
+  <description>The client API for the MarkLogic JCR implementation.</description>
+  
+  <dependencies>
+  <dependency>
+    <groupId>com.marklogic</groupId>
+    <artifactId>java-client-api</artifactId>
+    <version>3.0.3</version>
+  </dependency>
+  </dependencies>
+</project>
